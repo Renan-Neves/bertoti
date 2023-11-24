@@ -18,11 +18,11 @@
 |:----:|:----:|:------:|:---------:|
 | #1  | YouTube | ![image](heuristicas/heuristica%201.png) | Acerto: quando você está vendo um vídeo é possivel saber claramente o tempo já visto e o quanto falta para acabar |
 | #2  | Twitter | ![image](heuristicas/heuristica%202.png) | Acerto: quando se está vendo um post no twitter é possível entender claramente seus textos e icones |
-| #3  |  |  |  |
-| #4  |  | ![image](heuristicas/heuristica%204.png) ![image](heuristicas/heuristica%204%20alt.png) | Erro: o menu de navegação fica mudando as funções de lugar |
+| #3  | Gmail | ![image](heuristicas/heuristica%203.png) | Acerto: é possível desfazer um email excluido sem querer facilmente |
+| #4  | Aliexpress | ![image](heuristicas/heuristica%204.png) ![image](heuristicas/heuristica%204%20alt.png) | Erro: o menu de navegação fica mudando as funções de lugar |
 | #5  | Outlook | ![image](heuristicas/heuristica%205.png) | Erro: quando se está escrevendo um email não fica claro que ele está sendo salvo como um rascunho e você pode sair da tela sem problemas |
-| #6  | Exaroton | ![image](heuristicas/heuristica%206.png.png) | Erro: na tela de usuário não é possível ver nenhuma informação sobre o usuário além do nome |
-| #7  |  |  |  |
-| #8  |  |  |  |
-| #9  |  |  |  |
-| #10 |  |  |  |
+| #6  | Exaroton | ![image](heuristicas/heuristica%206.png) | Erro: na tela de usuário não é possível ver nenhuma informação sobre o usuário além do nome |
+| #7  | Twitch | ![image](heuristicas/heuristica%207.png) | Acerto: usuários experientes sabem que se pode pausar uuma live apertando espaço e ativar o mudo com a tecla M |
+| #8  | OnePieceEx | ![image](heuristicas/heuristica%208.png) | Erro: muitas informações e anuncios atrapalham o |
+| #9  | GitHub | ![image](heuristicas/heuristica%209.png) | Acerto: ao errar as informações de login uma mensagem aparece na tela informando |
+| #10 | Amazon | ![image](heuristicas/heuristica%2010.png) | Acerto: o site da amazon tem opções de informações extras para o usuário em diversas coisas diferentes |
