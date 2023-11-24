@@ -1,8 +1,8 @@
-# Tarefa de IHC
+# Heurísticas de Nielsen
 
 ## Regras
 #1 sistemas devem frequentemente deixar claro para o usuário o que está acontecendo<br>
-#2 sistema deve usar uma linguagem que o usuário possa entender sem problemas, sem linguagem ou termos técnicos<br>
+#2 o sistema deve usar uma linguagem que o usuário possa entender sem problemas, portanto deve utilizar palavras, frases, imagens e conceitos que sejam familiares ao usuário<br>
 #3 usuários devem ter controle, e pode cometer erros, sempre deve haver uma forma clara de retornar ou desfazer algo sem ter de refazer todo um processo<br>
 #4 consistência, um usuário não deve ter dúvida se diferentes ações ou palavras tem diferentes significados em diferentes sistemas<br>
 #5 prevenção de erros, deve haver uma boa resposta para erros ao usuário além de tentar preveni-lo, elimina-los ou apresentá-los ao usuário com uma mensagem de confirmação<br>
@@ -10,18 +10,18 @@
 #7 flexibilidade e eficiência - atalhos devem existir para acelerar a usabilidade de usuários experientes<br>
 #8 interfaces não devem possuir informações irrelevantes para a situação, toda informação inútil compete com a informação útil pela atenção do usuário<br>
 #9 erros devem ser mostrados com linguagem humana e não apenas com um código de erro<br>
-#10 é bom que um sistema seja auto explicativo, porém pode ser necessário adicionar alguma informação /documentação adicional sobre ele, para ajudar na execução de tarefas
+#10 é bom que um sistema seja auto explicativo, porém pode ser necessário adicionar alguma informação/documentação adicional sobre ele, para ajudar na execução de tarefas
 <br><br>
 
 ## Sites selecionados
  Regra | Site | Imagem | Descrição |
 |:----:|:----:|:------:|:---------:|
-| #1  |  |  |  |
-| #2  |  |  |  |
+| #1  | YouTube | ![image](heuristicas/heuristica%201.png) | Acerto: quando você está vendo um vídeo é possivel saber claramente o tempo já visto e o quanto falta para acabar |
+| #2  | Twitter | ![image](heuristicas/heuristica%202.png) | Acerto: quando se está vendo um post no twitter é possível entender claramente seus textos e icones |
 | #3  |  |  |  |
-| #4  |  |  |  |
-| #5  |  |  |  |
-| #6  |  |  |  |
+| #4  |  | ![image](heuristicas/heuristica%204.png) ![image](heuristicas/heuristica%204%20alt.png) | Erro: o menu de navegação fica mudando as funções de lugar |
+| #5  | Outlook | ![image](heuristicas/heuristica%205.png) | Erro: quando se está escrevendo um email não fica claro que ele está sendo salvo como um rascunho e você pode sair da tela sem problemas |
+| #6  | Exaroton | ![image](heuristicas/heuristica%206.png.png) | Erro: na tela de usuário não é possível ver nenhuma informação sobre o usuário além do nome |
 | #7  |  |  |  |
 | #8  |  |  |  |
 | #9  |  |  |  |
